@@ -1,0 +1,45 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "sourceMap": true,
+    "declaration": false,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es5",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "es2018",
+      "dom"
+    ],
+    "paths": {
+      "angular-design-adapter": [
+        "dist/angular-design-adapter"
+      ],
+      "angular-design-adapter/*": [
+        "dist/angular-design-adapter/*"
+      ],
+      "angular-design-adapter-material": [
+        "dist/angular-design-adapter-material"
+      ],
+      "angular-design-adapter-material/*": [
+        "dist/angular-design-adapter-material/*"
+      ],
+      "angular-design-adapter-carbon": [
+        "dist/angular-design-adapter-carbon"
+      ],
+      "angular-design-adapter-carbon/*": [
+        "dist/angular-design-adapter-carbon/*"
+      ]
+    }
+  }
+}
