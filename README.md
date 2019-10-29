@@ -7,7 +7,7 @@ In this experiment currently adapters are used for Material Design (angular-mate
 # Contents
 
 This repo contains a demo (main) application and 3 libraries:
-- the generic design system (AngularDesignAdapter)
+- the generic/abstract design system (AngularDesignAdapter)
 - implementation for Material Design (AngularDesignAdapterMaterial)
 - implementation for Carbon Design System (AngularDesignAdapterCarbon)
 

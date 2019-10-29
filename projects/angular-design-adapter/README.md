@@ -12,16 +12,16 @@ Development teams can start building using e.g material while the (branded) proj
  
 # Expected downsides
 
-The generic design systems components are expected to only contain the common denominator of UI patterns and functionalities of the supporting design systems.
+The generic design systems components are expected to only contain the common set of UI patterns and functionality of the supporting design systems.
 
 # Questions to be answered
 
 Is a generic design system feasible to build and maintain ?
 
-Does it have a performance issues ?
+Does it have performance issues ?
 
 Do benefits outweigh the downsides ?
 
-For instance, having only the common denominator of UI features might not be a bad thing, as using other features can also be an impediment for switching to different design system in the future. And alternative U patterns might exist which can be implemented.
+For instance, having only the common set of UI features might not be a bad thing, as using other (likely unsupported) features can also be an impediment for switching to different design system in the future. And alternative UI patterns might exist which can be implemented in stead.
 
-Also users might be less accustomed to functionalities not being in the common set of UI patterns.
+Also users might be less accustomed to UI patterns not being in the common set.
