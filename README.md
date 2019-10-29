@@ -12,6 +12,7 @@ This repo contains a demo (main) application and 3 libraries:
 - implementation for Carbon Design System (AngularDesignAdapterCarbon)
 
 Note: as this project is in an early stage it does not contain many components yet.
+Also, currently the libraries are part of this repository for now in stead of being in separate repo's.
 
 # Demo
 
